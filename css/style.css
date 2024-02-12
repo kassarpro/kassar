@@ -1378,7 +1378,7 @@ ol {
 	}
 
 	.blog-post iframe {
-		width: 100%;
+		width: 50%;
 		height: auto;
 		aspect-ratio: 16 / 9; /* Maintain aspect ratio */
 	}
