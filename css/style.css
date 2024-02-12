@@ -1376,4 +1376,10 @@ ol {
 	.map {
 		height: 400px;
 	}
+
+	.blog-post iframe {
+		width: 100%;
+		height: auto;
+		aspect-ratio: 16 / 9; /* Maintain aspect ratio */
+	}
 }
